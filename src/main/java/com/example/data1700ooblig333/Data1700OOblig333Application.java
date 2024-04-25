@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Data1700OOblig333Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Data1700OOblig333Application.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(Data1700OOblig333Application.class, args);
+    }
 
 }
